@@ -1,1 +1,1 @@
-
+Aplikasi Pemesanan Menu Kedai FMR adalah aplikasi berbasis Python dengan tampilan GUI Tkinter yang digunakan untuk memudahkan proses pemesanan makanan dan minuman. Aplikasi ini memiliki dua jenis pengguna, yaitu Customer dan Admin. Aplikasi ini bertujuan meningkatkan efisiensi, ketepatan perhitungan, dan kemudahan pengelolaan menu.
